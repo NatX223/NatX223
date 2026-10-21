@@ -52,4 +52,4 @@ Time-, price-, and volume-triggered buy/sell and liquidity strategies powered by
 **Ops:** GCP · Vercel · systemd · Caddy
 
 ## 📫 Reach me
-[Email](mailto:ajuziesinachi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sinachi-ajuzie/) · [X]([YOUR_X](https://x.com/NatX_eth))
+[Email](mailto:ajuziesinachi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sinachi-ajuzie/) · [X](https://x.com/NatX_eth)
