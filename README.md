@@ -1,6 +1,6 @@
 # Hi, I'm Sinachi 👋
 
-Backend & smart contract engineer based in Lagos, Nigeria. I build payment rails, DeFi protocols, and the off-chain services that keep them honest: indexers, reconcilers, price reporters, and worker networks.
+Backend & smart contract engineer based in Nigeria. I build payment rails, DeFi protocols, and the off-chain services that keep them honest: indexers, reconcilers, price reporters, and worker networks.
 
 **Open to:** Backend · Smart Contract · Web3 Backend roles (remote or Nigeria)
 
